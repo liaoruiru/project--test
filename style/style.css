@@ -1,0 +1,16 @@
+section.test {
+  text-align: center;
+}
+
+section.test h1 {
+  color: darkblue;
+  font-weight: 900;
+  font-size: 2.5rem;
+}
+
+section.test p {
+  color: darkgreen;
+  font-size: 1.5rem;
+  font-style: oblique;
+}
+/*# sourceMappingURL=style.css.map */
