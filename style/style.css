@@ -13,4 +13,9 @@ section.test p.a {
   font-size: 1.5rem;
   font-style: oblique;
 }
+
+section.test p.b {
+  color: darkmagenta;
+  font-size: 1.5rem;
+}
 /*# sourceMappingURL=style.css.map */
