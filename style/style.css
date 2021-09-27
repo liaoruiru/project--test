@@ -8,7 +8,7 @@ section.test h1 {
   font-size: 2.5rem;
 }
 
-section.test p {
+section.test p.a {
   color: darkgreen;
   font-size: 1.5rem;
   font-style: oblique;
